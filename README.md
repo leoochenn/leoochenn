@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ...<br>
+- 💬 Ask me about ...
+
+C/C++
+
+- 🔭 I’m currently working on ...
+
+senior project
+
+- 🌱 I’m currently learning ...
+
 swiftUI
