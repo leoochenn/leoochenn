@@ -21,8 +21,9 @@ C/C++
 
 - 🔭 I’m currently working on ...
 
-senior project
+<!--senior project -->
 
 - 🌱 I’m currently learning ...
 
 swiftUI
+python
